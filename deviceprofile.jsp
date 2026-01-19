@@ -9,8 +9,8 @@
     
    <!-- <script src="js/deviceProfile.js"></script> -->
      
-        <!--   <script src="js/pingone-protect-device-profile-implementation.js"></script> -->
-           <script src="js/signals-sdk-5.6.3.js"></script>
+        <!--   <script src="/pingone-protect-device-profile-implementation.js"></script> -->
+           <script src="/signals-sdk-5.6.3.js"></script>
       <script src="js/pingone-protect-device-profiling.js"></script>
        
      <!--  <script
